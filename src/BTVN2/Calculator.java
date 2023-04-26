@@ -14,7 +14,7 @@ public class Calculator {
         int x = sum(num1, num2);
         float num3 = 2.5F;
         float num4 = 3.9F;
-        float y = num3 * num4;
+        float y = tich(num3, num4);
         System.out.println("Tổng 2 số bằng: " + x);
         System.out.println("Tích 2 số bằng: " + y);
     }
