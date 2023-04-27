@@ -1,6 +1,6 @@
 package BTVN3;
 
-public class ToanTu {
+public class Dieukien {
     public static int number = 100;
 
     static String check(int n) {
